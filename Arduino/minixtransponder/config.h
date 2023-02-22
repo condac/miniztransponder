@@ -1,4 +1,4 @@
-  
+  // boards url http://digistump.com/package_digistump_index.json,http://drazzy.com/package_drazzy.com_index.json
   //avrdude -U lfuse:w:0x62:m  -U hfuse:w:0xC5:m
 
   //  avrdude -p t25 -P /dev/ttyUSB3 -c avrisp -b 19200 -U lfuse:w:0x62:m -U hfuse:w:0xC5:m
